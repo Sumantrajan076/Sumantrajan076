@@ -105,18 +105,19 @@ I'm **Sumant Rajan** from India. I'm a student and a passionate coder who loves 
 
 ---
 
-### 📊 GitHub Stats
+## My Github Stats:
+<table align="center" width="100%" height="100%" >
 
-<table align="center" width="100%">
-  <tr>
-    <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumantrajan076&theme=radical&layout=compact)](https://github.com/Sumantrajan076)
-    </td>
-    <td>
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumantrajan076&theme=radical&show_icons=true&count_private=true&hide=issues)
-    </td>
-  </tr>
+<tr>
+      <td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumantrajan076&theme=radical&layout=compact)](https://github.com/Sumantrajan076)</td>
+  <td>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sumantrajan076&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+    </tr>
 </table>
+
 
 ---
 
