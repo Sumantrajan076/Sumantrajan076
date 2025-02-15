@@ -64,9 +64,6 @@ I'm Sumant Rajan from India. I'm a student as well as a Coder who is passionate 
       <img alt="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" height="50" />
     </td>
     <td>
-      <img alt="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50" />
-    </td>
-    <td>
       <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" />
     </td>
     <td>
